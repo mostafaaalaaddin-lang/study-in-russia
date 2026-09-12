@@ -1,6 +1,7 @@
 {
   "artboards": [
-    { "file": "Main.dc.html", "x": 0, "y": 0, "w": 794, "h": 1123, "title": "Study in Russia — A4 poster", "print": "fixed" }
+    { "file": "Main.dc.html", "x": 0, "y": 0, "w": 794, "h": 1123, "title": "Poster 1 — the case", "print": "fixed" },
+    { "file": "Making.dc.html", "x": 894, "y": 0, "w": 794, "h": 1123, "title": "Poster 2 — how it was built", "print": "fixed" }
   ],
-  "launch": { "view": "focused", "file": "Main.dc.html" }
+  "launch": { "view": "canvas" }
 }
