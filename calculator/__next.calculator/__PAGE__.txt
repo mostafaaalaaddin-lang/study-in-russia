@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:I[47257,["/study-in-russia/_next/static/chunks/2ajphos88or77.js"],"ClientPageRoot"]
+3:I[61009,["/study-in-russia/_next/static/chunks/2ajphos88or77.js","/study-in-russia/_next/static/chunks/1_2tjn6am3ct6.js"],"default"]
+6:I[97367,["/study-in-russia/_next/static/chunks/2ajphos88or77.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+b:I[97367,["/study-in-russia/_next/static/chunks/2ajphos88or77.js"],"ViewportBoundary"]
+c:I[97367,["/study-in-russia/_next/static/chunks/2ajphos88or77.js"],"MetadataBoundary"]
+e:I[39756,["/study-in-russia/_next/static/chunks/2ajphos88or77.js"],"default"]
+f:I[37457,["/study-in-russia/_next/static/chunks/2ajphos88or77.js"],"default"]
+12:I[50208,["/study-in-russia/_next/static/chunks/2ajphos88or77.js"],"THEME_SCRIPT"]
+13:I[50208,["/study-in-russia/_next/static/chunks/2ajphos88or77.js"],"ThemeProvider"]
+14:I[94763,["/study-in-russia/_next/static/chunks/2ajphos88or77.js"],"CurrencyProvider"]
+15:I[42724,["/study-in-russia/_next/static/chunks/2ajphos88or77.js"],"Nav"]
+16:I[22016,["/study-in-russia/_next/static/chunks/2ajphos88or77.js"],""]
+:HL["/study-in-russia/_next/static/chunks/1f30qzgeufz79.css","style"]
+a:X
+11:X
+11:C
+0:{"buildId":"v8uqd0qLbvfoTzmXjCm2L","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/study-in-russia/_next/static/chunks/1_2tjn6am3ct6.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lb",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Study in Russia — scholarships, housing and living costs"}],["$","meta","1",{"name":"description","content":"A planning tool for international applicants to Russian universities: Open Doors and the government quota, university shortlisting, a city-by-city living cost calculator and a motivation letter reviewer."}]]}]}]}],null]}],"isPartial":"$@d","staleTime":"$a","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$Lf",null,{}]}]]}],"isPartial":"$@10","staleTime":"$a","varyParams":"$11"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/study-in-russia/_next/static/chunks/1f30qzgeufz79.css","precedence":"next"}],["$","script","script-0",{"src":"/study-in-russia/_next/static/chunks/2ajphos88or77.js","async":true}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$12"}}]}],["$","body",null,{"className":"min-h-screen","children":["$","$L13",null,{"children":["$","$L14",null,{"children":[["$","$L15",null,{}],["$","main",null,{"children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$Lf",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","footer",null,{"className":"no-print mt-16 border-t border-ink-200 bg-surface","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":[["$","div",null,{"className":"flex flex-wrap items-start justify-between gap-6","children":[["$","div",null,{"className":"max-w-3xl","children":[["$","p",null,{"className":"text-sm font-semibold text-ink-900","children":"Study in Russia"}],["$","p",null,{"className":"mt-2 text-sm leading-relaxed text-ink-500","children":"An independent planning tool built from published information on the official programme sites. It is not affiliated with any university, with Rossotrudnichestvo or with the Open Doors organisers. Every deadline, amount and rule here should be confirmed against the official source linked alongside it before you act on it."}]]}],["$","div",null,{"className":"text-sm","children":[["$","p",null,{"className":"text-ink-500","children":["Designed and built by"," ",["$","span",null,{"className":"font-semibold text-ink-900","children":"Mostafa Darwish"}]]}],["$","$L16",null,{"href":"/about","className":"mt-1 inline-block font-medium text-flag-blue hover:underline","children":"About this project"}]]}]]}],["$","div",null,{"className":"mt-6 flex flex-wrap gap-4 border-t border-ink-100 pt-5 text-sm","children":[["$","a",null,{"className":"font-medium text-flag-blue hover:underline","href":"https://od.globaluni.ru","target":"_blank","rel":"noreferrer noopener","children":"od.globaluni.ru"}],"$L17","$L18","$L19"]}]]}]}]]}]}]}]]}]]}],"isPartial":"$@1a","staleTime":"$a","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+4:{}
+5:"$0:data:0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
+17:["$","a",null,{"className":"font-medium text-flag-blue hover:underline","href":"https://education-in-russia.com","target":"_blank","rel":"noreferrer noopener","children":"education-in-russia.com"}]
+18:["$","a",null,{"className":"font-medium text-flag-blue hover:underline","href":"https://studyinrussia.ru/en/","target":"_blank","rel":"noreferrer noopener","children":"studyinrussia.ru"}]
+19:["$","span",null,{"className":"ml-auto text-ink-400","children":["© ",2026," ","Mostafa Darwish"]}]
+a:300
+1c:true
+a:C
+1b:0
+d:"$undefined"
+10:"$undefined"
+1a:"$undefined"
+9:"$undefined"
