@@ -1,5 +1,7 @@
 # Study in Russia
 
+**Live site:** <https://mostafaaalaaddin-lang.github.io/study-in-russia/>
+
 A planning tool for international applicants to Russian universities. It covers the two national
 funded routes in depth, with the Open Doors competition as the centrepiece, and then does the part
 most scholarship guides skip: what the award does not pay for, and what that actually costs month by
@@ -22,6 +24,16 @@ To produce a static build in `out/`, ready to upload to any host:
 ```bash
 npm run build
 ```
+
+To rebuild and republish to GitHub Pages in one step:
+
+```bash
+npm run deploy
+```
+
+That builds with the `/study-in-russia` base path a project site needs, writes
+`.nojekyll` so the `_next` directory is not stripped, and pushes the result to the
+`gh-pages` branch. See `docs/README.md` to switch to automatic deploys instead.
 
 ## What is in it
 
