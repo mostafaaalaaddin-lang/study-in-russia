@@ -7,3 +7,6 @@ next-env.d.ts
 
 # built site archive
 study-in-russia-site.zip
+
+# seeded design canvas (build output)
+design/study-in-russia-poster.html
